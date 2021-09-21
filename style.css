@@ -1,0 +1,80 @@
+
+body 
+{
+    font-family: "roboto";
+    width: 100%;
+
+
+}
+#logo 
+{
+    height:70px;
+    width:70px;
+}
+
+ul{
+
+    text-align: center;
+  background-color: salmon;
+  height:30px;
+
+
+}
+main
+{
+ 
+margin-top: 30px;
+padding-left: 20px;
+
+
+    
+
+}
+a 
+{
+    color: black;
+}
+li 
+{
+    display: inline;
+    margin-left: 10px;
+}
+.pcolor
+{
+    text-decoration: underline;
+}
+.btn1
+{
+    background-color:salmon;
+    border-radius: 5px;
+    height:30px;
+    width: 90px;
+}
+p
+{
+   width: 400px;
+   line-height: 20px;
+
+}
+#services
+{
+    color: salmon;
+margin-bottom: 30px;}
+h2{
+    text-decoration-line: underline;
+    margin-bottom: 20px;;
+    color:salmon;
+    border:solid 2px grey;
+    text-align: center;
+    width: 40%;
+    background-color: lightgray;
+
+
+}
+label {
+    color: salmon;
+}
+.bkg
+{
+    background-color: lightgray;
+}
